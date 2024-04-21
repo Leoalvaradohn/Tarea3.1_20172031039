@@ -15,6 +15,3 @@ function getSystemInfo() {
 
 module.exports = getSystemInfo;
 
-// Ejemplo de uso:
-// const getSystemInfo = require('./systemInfo');
-// console.log(getSystemInfo());
