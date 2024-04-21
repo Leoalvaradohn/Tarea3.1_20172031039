@@ -6,6 +6,4 @@ function openFile(filename) {
 
 module.exports = openFile;
 
-// Ejemplo de uso:
-// const openFile = require('./fileOpener');
-// openFile('archivo.txt').then(data => console.log(data)).catch(err => console.error(err));
+
