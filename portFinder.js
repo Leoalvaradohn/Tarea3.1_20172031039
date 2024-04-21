@@ -17,7 +17,3 @@ function findFreePort() {
 }
 
 module.exports = findFreePort;
-
-// Ejemplo de uso:
-// const findFreePort = require('./portFinder');
-// findFreePort().then(port => console.log('Puerto libre encontrado:', port));
